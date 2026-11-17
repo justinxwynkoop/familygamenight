@@ -1,3 +1,8 @@
+> **This repository has moved.** The Apple TV app now lives in [`justinxwynkoop/gamenight`](https://github.com/justinxwynkoop/gamenight)
+> under [`tv-app/`](https://github.com/justinxwynkoop/gamenight/tree/main/tv-app), with its full history, next to the game
+> rules and the phone pages. Make changes there. TestFlight uploads now run from gamenight, so this repository's
+> workflows were removed; it can be archived (Settings → Archive this repository).
+
 # Family Game Night
 
 A private Apple TV app for family game nights. Open it and pick a game:
